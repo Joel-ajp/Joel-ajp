@@ -1,5 +1,5 @@
 ### 🤖 Automation Enthusiast
-### 🌠 Go, Javascript and Python Enjoyer
+### 🌠 Go, Java, and Python Enjoyer
 
 <!--
 **Joel-ajp/Joel-ajp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
