@@ -1,2 +1,2 @@
 ### 🤖 Automation Enthusiast
-### Go, Java, and Python Enjoyer
+### Go, Javascript, and Python Enjoyer
